@@ -1,3 +1,4 @@
+
 # Created by https://www.gitignore.io/api/django
 # Edit at https://www.gitignore.io/?templates=django
 
@@ -11,4 +12,4 @@ db.sqlite3
 db.sqlite3-journal
 \media
 \static
-\settings
+venv
